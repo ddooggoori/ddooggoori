@@ -22,4 +22,4 @@
 ---
 
 ### Contact 📧
-- ddooggoorii@gmail.com</h2>
+- ddooggoorii@gmail.com (Su Min Kim)</h2>
