@@ -2,7 +2,6 @@
   <h1>🎉 Welcome to my page 🎉</h1>
 </div>
 
----
 
 <div align="center">
   <h3>I am an <strong>AI developer</strong> who wants to make human life more convenient through AI.</h3>
