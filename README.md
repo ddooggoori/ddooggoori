@@ -13,7 +13,7 @@
 
 - Used as main:  
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://www.python.org/](https://www.tensorflow.org/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/TensorFlo-#FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlo-#FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 
 - Used at least once:  
  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresqlL&logoColor=white"/></a>
