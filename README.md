@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <h3>I am an <strong>AI developer</strong> who wants to make human life more convenient through AI.</h3>
+  <h3>I am an <strong>AI engineer</strong> who wants to make human life more convenient through AI.</h3>
 </div>
 
 ---
